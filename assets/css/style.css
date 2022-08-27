@@ -34,5 +34,15 @@ header h1{
     margin-right: 13px;
 }
 
+.bio {
+    background-image: url(../images/bg3.webp);
+    color: white;
+}
 
+.bioText {
+    font-size: 30px;
+    margin-top: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
 
