@@ -1,0 +1,38 @@
+.headshot {
+    height: 100px;
+    width: 80px;
+    object-fit: cover;
+    margin-top: 10px;
+    border-radius: 50%;
+}
+
+.topBar {
+    display: flex;
+    justify-content: space-between;
+    background-image: url(../images/navbarBG.jpg);
+    color: white;
+}
+
+header h1{
+    display: inline-block;
+}
+
+.toc {
+    justify-self: flex-end;
+    align-self: flex-end;
+    list-style-type: none;
+    font-size: 30px;
+    margin-right: 10px;
+}
+
+.aboutMe,
+.projects,
+.contact {
+    display: inline-block;
+    justify-self: flex-end;
+    align-self: flex-end;
+    margin-right: 13px;
+}
+
+
+
